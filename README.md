@@ -34,3 +34,6 @@ Replace the logo in `static/logo.png` and run `npm run generate-favicon` to gene
 - configurable menu bar
 - analytics
 - seo
+
+
+--- tests ---
